@@ -1,12 +1,12 @@
 {
-    "name": "theiconic/fixtures",
+    "name": "apremiera/fixtures",
     "description": "Load fixtures into database from different formats: Yaml, XML, etc.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "THE ICONIC ENGINEERING TEAM",
-            "email": "engineering@theiconic.com.au"
+            "name": "ApremierA",
+            "email": "premier@list.ru"
         }
     ],
     "require": {
